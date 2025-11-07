@@ -81,3 +81,4 @@ CookieConsentDialog.userCountry = 'BD';
 CookieConsent.userCountry = 'BD';
 CookieConsent.updateRegulations();
 CookieConsentDialog.userCulture = 'en-US';
+CybotCookiebotDialog.style.backgroundColor = 'white';
